@@ -56,7 +56,7 @@ const Sidebar = () => (
                     <a 
                         target="_blank"
                         rel="noreferrer"
-                        href="https://www.linkedin.com/in/muhammad-areeb-152b28231/"
+                        href="https://github.com/MuhammadAreeb334"
                     >
                         <FontAwesomeIcon icon={faGithub} color='#68696E' />
                     </a>
